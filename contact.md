@@ -3,18 +3,38 @@ layout: default
 title: Contact
 ---
 
-## Get In Touch
+# Contact
 
-I am always open to discussing technical projects, infrastructure design, or career opportunities in Network and Systems Engineering.
+I’m open to discussions around infrastructure, systems administration, networking, and security-focused IT roles or projects.
 
-### Contact Information
-*   **Email:** [your-email@example.com](mailto:your-email@example.com)
-*   **GitHub:** [github.com/your-username](https://github.com/your-username)
-*   **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
-### Location
-*   Based in **Denmark**. 
-*   Open to local opportunities in the Copenhagen area/Zealand or remote positions.
+This includes topics such as Active Directory environments, network design, system hardening, SIEM/logging, and general enterprise IT architecture.
 
 ---
-*Feel free to reach out via email or LinkedIn—I typically respond within 24 hours.*
+
+## Contact Information
+
+- **Email:** reubenbadham12@gmail.com     
+- **GitHub:** https://github.com/Sin9ularity1  
+- **LinkedIn:** https://www.linkedin.com/in/reuben-badham/
+
+---
+
+## Location
+
+Based in Denmark (Odense)  
+Open to opportunities in Denmark or remote roles within infrastructure and security engineering.
+
+---
+
+## Collaboration / Interests
+
+I’m particularly interested in:
+- Infrastructure and identity management (Active Directory, RBAC)
+- Network security and segmentation
+- SOC / SIEM workflows and detection engineering basics
+- Linux and Windows server environments
+- Lab-based security simulation projects
+
+---
+
+*Feel free to reach out via email or LinkedIn.*

@@ -3,23 +3,68 @@ layout: default
 title: Technical Skills
 ---
 
-## Infrastructure & Networking
-*   **Cisco IOS:** Configuration of VLANs, Trunking (802.1Q), STP, and Inter-VLAN routing.
-*   **Routing Protocols:** Static routing and single-area OSPF.
-*   **Network Security:** Standard and Extended ACLs, NAT/PAT.
+# Technical Skills
 
-## Systems Administration
-*   **Active Directory:** Forest/Domain design, OU structure, and Group Policy (GPO).
-*   **Windows Server:** Installation, DNS/DHCP role configuration, and server hardening.
-*   **Virtualization:** Hands-on experience with GNS3, VMware, and Hyper-V for lab environments.
+## Networking
+- TCP/IP, subnetting, CIDR, VLANs (802.1Q), NAT, and routing fundamentals
+- Firewall configuration and network segmentation using OPNsense and pfSense
+- IDS/IPS deployment and tuning with Suricata
+- Packet capture and protocol analysis using Wireshark
+- Basic VPN deployment and configuration (OpenVPN, WireGuard)
 
-## Security & Analysis
-*   **SIEM Tools:** Basic log analysis and alert monitoring (e.g., Splunk or ELK).
-*   **Traffic Analysis:** Packet capture and protocol dissection using Wireshark.
-*   **Documentation:** Technical writing, topology mapping, and systematic troubleshooting logs.
+---
 
-## Tools
-*   **GNS3 / Packet Tracer**
-*   **Cisco CLI**
-*   **Wireshark**
-*   **Windows Server 2019/2022**
+## Systems Administration & Infrastructure
+- Active Directory administration and organizational unit (OU) management
+- Group Policy configuration and Windows endpoint management
+- Linux server administration and hardening (Ubuntu, CIS principles)
+- Virtualization platforms including Proxmox VE and VirtualBox
+- DNS, DHCP, and basic enterprise infrastructure services
+- User onboarding/offboarding and RBAC implementation
+
+---
+
+## Security Operations & Monitoring
+- SIEM deployment and centralized logging using Wazuh and Graylog
+- Log collection and monitoring using rsyslog and auditd
+- File Integrity Monitoring (FIM)
+- Basic vulnerability analysis and CVE/CWE research
+- Security event analysis and alert investigation
+- Technical incident documentation and troubleshooting workflows
+
+---
+
+## Malware Analysis & Security Research
+- Static malware analysis techniques
+- File hashing, strings analysis, and FLOSS
+- Basic YARA rule usage
+- Introductory dynamic malware analysis
+- Basic x86 assembly familiarity
+
+---
+
+## Tools & Platforms
+
+### Operating Systems
+- Linux
+- Windows
+- macOS
+
+### Networking & Infrastructure Tools
+- GNS3
+- Cisco CLI
+- Wireshark
+- Proxmox VE
+- VirtualBox
+
+### Security Tools
+- Active Directory
+- Wazuh
+- Graylog
+- Nmap
+- Suricata
+
+### Web & Development Tools
+- Docker
+- Postman
+- Burp Suite

@@ -3,18 +3,39 @@ layout: default
 title: About Me
 ---
 
-## Professional Profile
+# About Me
 
-I am a technical specialist with a strong foundation in Network Engineering and System Administration. My approach to IT infrastructure is built on three pillars: **Security, Documentation, and Scalability.**
+I am an IT Security student based in Denmark with a strong interest in infrastructure, systems administration, networking, and defensive security.
 
-I am currently building out my portfolio to demonstrate my proficiency in Cisco networking and Windows Server environments, with a particular interest in how network segmentation and identity management form the bedrock of a secure enterprise.
+My focus is on building practical, enterprise-style environments that emphasize security, documentation, and operational thinking. Through hands-on lab projects, I work with technologies such as Active Directory, VLAN segmentation, SIEM platforms, Linux hardening, and centralized logging.
 
-### Career Objectives
-*   To secure a role where I can apply my CCNA-level networking knowledge to real-world infrastructure.
-*   To deepen my expertise in Active Directory and security operations (SecOps).
-*   To contribute to the Danish tech industry by building reliable and secure IT systems.
+I enjoy understanding how systems connect together — from identity management and access control to network segmentation, monitoring, and incident response.
 
-### What I Bring to a Team
-*   **Systematic Troubleshooting:** I don't just fix problems; I document the "Why" and "How" to prevent them from recurring.
-*   **Continuous Learning:** Whether it's mastering a new routing protocol or labbing a security breach, I am constantly expanding my technical range.
-*   **Clear Communication:** I am a native English speaker living in Denmark, comfortable communicating technical concepts to both technical and non-technical stakeholders.
+---
+
+## Current Areas of Focus
+
+- Active Directory & Group Policy
+- Network segmentation and firewalling
+- SIEM deployment and log analysis
+- Linux administration and hardening
+- Infrastructure security and RBAC
+- PowerShell and operational automation
+
+---
+
+## Approach to Learning
+
+I prefer learning through building and documenting real environments rather than isolated exercises. My portfolio projects are designed to simulate realistic infrastructure and security scenarios, with an emphasis on:
+
+- Structured troubleshooting
+- Clear documentation
+- Verification and testing
+- Security-focused design
+- Operational practicality
+
+---
+
+## Communication
+
+I am a native English speaker currently living in Denmark and actively improving my Danish. I am comfortable communicating technical concepts clearly to both technical and non-technical audiences.

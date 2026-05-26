@@ -5,13 +5,13 @@ title: Projects Overview
 
 ## My Engineering Labs
 
-Select a project to view the high-level objective and detailed technical deep-dives.
+Select a project to view my knowledge about a given subject.
 
-### 🌐 Networking
+### Networking
 *   **[Networking & VLAN Segmentation]({{ '/projects/networking.html' | relative_url }})**  
     *Layer 2 segmentation and 802.1Q trunking on Cisco hardware.*
 
-    ### 🛡️ Security
+### Security
 *   **[Security / SIEM Lab]({{ '/projects/security.html' | relative_url }})**  
     *Monitoring and analyzing security logs for threat detection.*
 
