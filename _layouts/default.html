@@ -7,23 +7,51 @@
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>{{ site.title | default: "Reuben Badham" }}</h1>
-            <p>IT Security Student</p>
-        </header>
-
+    <header>
         <nav>
-            {% include navigation.html %}
+            <a href="{{ '/' | relative_url }}" class="logo">{{ site.title | default: "Reuben Badham" }}</a>
+            <ul class="nav-links">
+                <li><a href="{{ '/' | relative_url }}" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+                <li><a href="{{ '/projects.html' | relative_url }}" {% if page.url contains '/projects' %}class="active"{% endif %}>Projects</a></li>
+                <li><a href="{{ '/skills.html' | relative_url }}" {% if page.url == "/skills.html" %}class="active"{% endif %}>Skills</a></li>
+                <li><a href="{{ '/about.html' | relative_url }}" {% if page.url == "/about.html" %}class="active"{% endif %}>About</a></li>
+                <li><a href="{{ '/contact.html' | relative_url }}" {% if page.url == "/contact.html" %}class="active"{% endif %}>Contact</a></li>
+            </ul>
         </nav>
+    </header>
 
-        <main>
+    <div class="page">
+        <aside class="sidebar">
+            <div class="sidebar-profile">
+                <div class="profile-img">RB</div>
+                <div class="profile-name">Reuben Badham</div>
+                <div class="profile-bio">IT Security Student • Infrastructure & Defensive Security</div>
+            </div>
+            
+            <h2>Navigation</h2>
+            <ul>
+                <li><a href="{{ '/' | relative_url }}">Home Overview</a></li>
+                <li><a href="{{ '/projects.html' | relative_url }}">All Projects</a></li>
+                <li><a href="{{ '/skills.html' | relative_url }}">Technical Skills</a></li>
+            </ul>
+
+            <h2>Connect</h2>
+            <ul>
+                <li><a href="https://github.com/Sin9ularity1">GitHub</a></li>
+                <li><a href="https://www.linkedin.com/in/reuben-badham/">LinkedIn</a></li>
+                <li><a href="mailto:reubenbadham12@gmail.com">Email</a></li>
+            </ul>
+        </aside>
+
+        <main class="content">
             {{ content }}
         </main>
-
-        <footer>
-            <p>Reuben Badham | Built for GitHub Pages</p>
-        </footer>
     </div>
+
+    <footer>
+        <div class="footer-content">
+            <p>Reuben Badham | IT Security & Infrastructure Portfolio</p>
+        </div>
+    </footer>
 </body>
 </html>
