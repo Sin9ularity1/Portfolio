@@ -1,0 +1,11 @@
+title: Reuben Badham Portfolio
+email: your-email@example.com
+description: >-
+  A professional portfolio showcasing skills in Networking, System Security, and Active Directory.
+baseurl: ""
+url: ""
+
+# Build settings
+# theme: minima
+# plugins:
+#   - jekyll-feed
