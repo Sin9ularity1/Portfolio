@@ -10,7 +10,8 @@ I am a technical specialist focused on building secure, scalable, and efficient 
 ### Featured Projects
 *   **[Active Directory Infrastructure]({{ '/projects/ad-project.html' | relative_url }})**
 *   **[Networking & VLAN Segmentation]({{ '/projects/networking.html' | relative_url }})**
-*   **[Security / SIEM Lab]({{ '/projects/security.md' | relative_url }})** (Note: .md extension in source, GitHub Pages renders as .html)
+*   **[Security / SIEM Lab]({{ '/projects/security.html' | relative_url }})**
+
 
 ---
 *My goal is to demonstrate technical discipline through documented verification and systematic troubleshooting.*

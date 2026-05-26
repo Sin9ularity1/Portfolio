@@ -2,8 +2,8 @@ title: Reuben Badham Portfolio
 email: your-email@example.com
 description: >-
   A professional portfolio showcasing skills in Networking, System Security, and Active Directory.
-baseurl: ""
-url: ""
+baseurl: "/Portfolio" # Your repository name
+url: "" # Your site URL, e.g. https://username.github.io
 
 # Build settings
 # theme: minima
