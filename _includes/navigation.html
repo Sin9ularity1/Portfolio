@@ -3,3 +3,13 @@
 <a href="{{ '/skills.html' | relative_url }}">Skills</a>
 <a href="{{ '/about.html' | relative_url }}">About</a>
 <a href="{{ '/contact.html' | relative_url }}">Contact</a>
+
+<div class="sub-nav">
+    <small>Current Focus: 
+        {% if page.url contains 'projects/ad' %}
+            Active Directory Lab
+        {% elsif page.url contains 'projects/networking' %}
+            Networking Lab
+        {% endif %}
+    </small>
+</div>

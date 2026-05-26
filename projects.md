@@ -5,15 +5,17 @@ title: Projects Overview
 
 ## My Engineering Labs
 
-Here is a collection of my technical projects. Each project includes documentation on objectives, configurations, and verification steps.
+Select a project to view the high-level objective and detailed technical deep-dives.
 
 ### 🏢 Systems & Active Directory
 *   **[Active Directory Infrastructure]({{ '/projects/ad-project.html' | relative_url }})**  
-    *Implementation of a secure, scalable AD Forest with custom OU structures and GPOs.*
+    *A multi-module deep dive into Forest design, GPOs, and security hardening.*
+    *   [→ View OU & GPO Design]({{ '/projects/ad-deep-dives/ou-and-gpo.html' | relative_url }})
+    *   [→ View Security Hardening]({{ '/projects/ad-deep-dives/security-hardening.html' | relative_url }})
 
 ### 🌐 Networking
 *   **[Networking & VLAN Segmentation]({{ '/projects/networking.html' | relative_url }})**  
-    *Demonstrating Layer 2 segmentation and 802.1Q trunking on Cisco hardware.*
+    *Layer 2 segmentation and 802.1Q trunking on Cisco hardware.*
 
 ### 🛡️ Security
 *   **[Security / SIEM Lab]({{ '/projects/security.html' | relative_url }})**  
