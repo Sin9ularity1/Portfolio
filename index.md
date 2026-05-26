@@ -3,11 +3,6 @@ layout: default
 title: Home
 ---
 
-# Reuben Badham
-## Infrastructure & Security Portfolio
-
-IT Security student focused on secure infrastructure, systems administration, networking, and defensive security operations.
-
 This portfolio documents hands-on projects involving enterprise-style Active Directory environments, network segmentation, SIEM deployment, system hardening, and operational security practices.
 
 ---

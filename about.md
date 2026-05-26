@@ -3,8 +3,6 @@ layout: default
 title: About Me
 ---
 
-# About Me
-
 I am an IT Security student based in Denmark with a strong interest in infrastructure, systems administration, networking, and defensive security.
 
 My focus is on building practical, enterprise-style environments that emphasize security, documentation, and operational thinking. Through hands-on lab projects, I work with technologies such as Active Directory, VLAN segmentation, SIEM platforms, Linux hardening, and centralized logging.

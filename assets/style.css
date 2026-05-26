@@ -91,6 +91,17 @@ main {
     padding: 50px;
 }
 
+main a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s ease;
+}
+
+main a:hover {
+    border-bottom-color: var(--accent);
+}
+
 h2, h3 {
     color: var(--text);
     margin-top: 2rem;
@@ -100,6 +111,35 @@ h2, h3 {
 p {
     margin-bottom: 1.5rem;
     color: var(--muted);
+}
+
+ul, ol {
+    margin-bottom: 1.5rem;
+    padding-left: 1.5rem;
+    color: var(--muted);
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+blockquote {
+    border-left: 4px solid var(--accent);
+    padding: 1rem 1.5rem;
+    background-color: var(--panel-2);
+    margin: 2rem 0;
+    font-style: italic;
+    border-radius: 0 8px 8px 0;
+}
+
+blockquote p {
+    margin-bottom: 0;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid var(--border);
+    margin: 2.5rem 0;
 }
 
 /* =========================
@@ -137,6 +177,10 @@ footer {
     font-size: 0.9rem;
 }
 
+footer p {
+    margin-bottom: 0;
+}
+
 /* =========================
    Code Blocks
 ========================= */
@@ -153,4 +197,31 @@ pre {
 code {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
     font-size: 0.9em;
+}
+
+/* =========================
+   Responsive
+========================= */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+    
+    main {
+        padding: 30px 20px;
+    }
+
+    header {
+        padding: 2rem 1rem;
+    }
+
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    nav a {
+        margin: 0 8px;
+        display: inline-block;
+        padding: 4px 0;
+    }
 }

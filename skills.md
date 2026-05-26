@@ -3,8 +3,6 @@ layout: default
 title: Technical Skills
 ---
 
-# Technical Skills
-
 ## Networking
 - TCP/IP, subnetting, CIDR, VLANs (802.1Q), NAT, and routing fundamentals
 - Firewall configuration and network segmentation using OPNsense and pfSense

@@ -3,8 +3,6 @@ layout: default
 title: Contact
 ---
 
-# Contact
-
 I’m open to discussions around infrastructure, systems administration, networking, and security-focused IT roles or projects.
 
 This includes topics such as Active Directory environments, network design, system hardening, SIEM/logging, and general enterprise IT architecture.
