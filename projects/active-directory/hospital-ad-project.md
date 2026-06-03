@@ -3,9 +3,9 @@ layout: default
 title: Hospital Active Directory Environment
 ---
 
-# 🏥 Regional Hospital: Identity & Access Infrastructure
+# Regional Hospital: Identity & Access Infrastructure
 
-[← Back to Projects]({{ '/projects.html' | relative_url }})
+[<- Back to Projects]({{ '/projects.html' | relative_url }})
 
 ## 1. Project Overview
 This project demonstrates the design and implementation of a secure enterprise Active Directory environment for a medium-sized Danish hospital (simulated). The focus was on building a zero-trust architecture that supports clinical operations while strictly enforcing data privacy and security.
@@ -72,4 +72,4 @@ To test the environment's responsiveness, I simulated an emergency termination o
 ![Emergency Offboarding]({{ '/assets/images/14_emergency_offboarding.png' | relative_url }})
 
 ---
-[← Back to Projects]({{ '/projects.html' | relative_url }})
+[<- Back to Projects]({{ '/projects.html' | relative_url }})

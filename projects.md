@@ -3,13 +3,13 @@ layout: default
 title: Projects Overview
 ---
 
-# 🚀 My Engineering Labs
+# My Engineering Labs
 
 Welcome to my technical portfolio. This site documents my hands-on experience in building and securing enterprise infrastructures.
 
-## 📂 Project Categories
+## Project Categories
 
-### 🛡️ Active Directory Projects
+### Active Directory Projects
 Comprehensive identity management and forest design.
 *   **[Hospital AD Environment]({{ '/projects/active-directory/hospital-ad-project.html' | relative_url }})** (Featured)
 *   *Group Policy Implementation (Coming Soon)*
@@ -18,7 +18,7 @@ Comprehensive identity management and forest design.
 
 ---
 
-### 🌐 Networking Projects
+### Networking Projects
 Core infrastructure and traffic security.
 *   **[Enterprise Network Design]({{ '/projects/networking.html' | relative_url }})**
 *   *VLAN Implementation (Coming Soon)*
@@ -27,9 +27,10 @@ Core infrastructure and traffic security.
 
 ---
 
-### 🖥️ Systems Administration Projects
+### Systems Administration Projects
 Server hardening and monitoring.
 *   **[Ubuntu Server Deployment]({{ '/projects/systems.html' | relative_url }})**
 *   *Wazuh SIEM (Coming Soon)*
 *   *Backup Solutions (Coming Soon)*
 *   *Virtualization Lab (Coming Soon)*
+n)*

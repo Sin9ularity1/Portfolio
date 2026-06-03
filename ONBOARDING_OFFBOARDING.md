@@ -1,4 +1,4 @@
-# 🏥 Hospital Infrastructure: Identity Lifecycle Procedure
+# Hospital Infrastructure: Identity Lifecycle Procedure
 
 ## 1. Onboarding Procedure (New Hire)
 When a new staff member joins the hospital, the IT department executes the `Bulk_Onboarding.ps1` script to ensure consistency and speed.

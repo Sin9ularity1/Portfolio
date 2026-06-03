@@ -6,7 +6,7 @@
     <title>{{ page.title }} | Reuben Badham Portfolio</title>
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
-<body>
+<body class="{{ page.layout_class }}">
     <header>
         <nav>
             <a href="{{ '/' | relative_url }}" class="logo">{{ site.title | default: "Reuben Badham" }}</a>
@@ -21,11 +21,12 @@
     </header>
 
     <div class="page">
+        {% if page.hide_sidebar != true %}
         <aside class="sidebar">
             <div class="sidebar-profile">
                 <div class="profile-img">RB</div>
                 <div class="profile-name">Reuben Badham</div>
-                <div class="profile-bio">IT Security Student • Infrastructure & Defensive Security</div>
+                <div class="profile-bio">IT Security Student - Infrastructure & Defensive Security</div>
             </div>
             
             <h2>Navigation</h2>
@@ -42,6 +43,7 @@
                 <li><a href="mailto:reubenbadham12@gmail.com">Email</a></li>
             </ul>
         </aside>
+        {% endif %}
 
         <main class="content">
             {{ content }}

@@ -3,7 +3,7 @@ layout: default
 title: AD Deep Dive - OU & GPO Design
 ---
 
-[← Back to AD Overview]({{ '/projects/ad-project.html' | relative_url }})
+[<- Back to AD Overview]({{ '/projects/ad-project.html' | relative_url }})
 
 ## Organizational Unit & Group Policy Design
 

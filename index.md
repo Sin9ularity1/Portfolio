@@ -1,47 +1,40 @@
 ---
 layout: default
 title: Home
+hide_sidebar: true
+layout_class: home-page
 ---
 
-This portfolio documents hands-on projects involving enterprise-style Active Directory environments, network segmentation, SIEM deployment, system hardening, and operational security practices.
+<div class="hero-section">
+    <div class="hero-image">
+        <img src="{{ '/assets/images/me.jfif' | relative_url }}" alt="Reuben Badham">
+    </div>
+    <div class="hero-text">
+        <h1>Reuben Badham</h1>
+        <p class="hero-subtitle">IT Security Student - Infrastructure & Defensive Security</p>
+        <p class="hero-description">
+            Building secure, enterprise-grade environments. Specialized in Active Directory, 
+            network segmentation, and systems hardening. Focused on operational discipline 
+            and hands-on security engineering.
+        </p>
+        <div class="hero-cta">
+            <a href="{{ '/projects.html' | relative_url }}" class="btn-primary">View Projects</a>
+            <a href="{{ '/contact.html' | relative_url }}" class="btn-secondary">Get in Touch</a>
+        </div>
+    </div>
+</div>
 
----
-
-## Core Areas
-
-- Active Directory & Windows Infrastructure
-- Network Segmentation & Firewalling
-- SIEM & Log Monitoring
-- Linux Administration & Hardening
-- Security Operations & Incident Response
-- Virtualization & Lab Environments
-
----
-
-## Featured Projects
-
-### [Hospital Active Directory Infrastructure]({{ '/projects/ad-project.html' | relative_url }})
-Enterprise-style Active Directory deployment simulating a regional hospital environment with RBAC, Group Policy, Wazuh integration, onboarding/offboarding automation, and incident response procedures.
-
-### [Networking & VLAN Segmentation]({{ '/projects/networking.html' | relative_url }})
-Segmented enterprise-style network using VLANs, firewall rules, IDS/IPS monitoring, and secure internal routing principles.
-
-### [Security / SIEM Lab]({{ '/projects/security.html' | relative_url }})
-Centralized logging and security monitoring environment using Wazuh, Sysmon, Suricata, and endpoint telemetry analysis.
-
----
-
-## Technical Focus
-
-My current areas of interest include:
-
-- Enterprise identity and access management
-- Defensive security architecture
-- Infrastructure hardening
-- Threat detection and monitoring
-- Operational security workflows
-- Security-focused systems administration
-
----
-
-> “The goal of this portfolio is to demonstrate technical discipline through structured documentation, verification, troubleshooting, and security-oriented system design.”
+<div class="quick-stats">
+    <div class="stat-item">
+        <h3>Active Directory</h3>
+        <p>Enterprise forest design and GPO hardening.</p>
+    </div>
+    <div class="stat-item">
+        <h3>Networking</h3>
+        <p>VLAN segmentation and firewall orchestration.</p>
+    </div>
+    <div class="stat-item">
+        <h3>Systems</h3>
+        <p>Linux hardening and SIEM log monitoring.</p>
+    </div>
+</div>

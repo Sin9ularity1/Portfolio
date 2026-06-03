@@ -3,7 +3,7 @@ layout: default
 title: AD Deep Dive - Security Hardening
 ---
 
-[← Back to AD Overview]({{ '/projects/ad-project.html' | relative_url }})
+[<- Back to AD Overview]({{ '/projects/ad-project.html' | relative_url }})
 
 ## Security Hardening & Principle of Least Privilege
 

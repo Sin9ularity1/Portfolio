@@ -3,7 +3,7 @@ layout: default
 title: Technical Skills
 ---
 
-# 🛠️ Technical Expertise
+# Technical Expertise
 
 My skills are divided into three core pillars: Network security, Identity management, and Systems hardening.
 
