@@ -3,66 +3,29 @@ layout: default
 title: Technical Skills
 ---
 
-## Networking
-- TCP/IP, subnetting, CIDR, VLANs (802.1Q), NAT, and routing fundamentals
-- Firewall configuration and network segmentation using OPNsense and pfSense
-- IDS/IPS deployment and tuning with Suricata
-- Packet capture and protocol analysis using Wireshark
-- Basic VPN deployment and configuration (OpenVPN, WireGuard)
+# 🛠️ Technical Expertise
 
----
+My skills are divided into three core pillars: Network security, Identity management, and Systems hardening.
 
-## Systems Administration & Infrastructure
-- Active Directory administration and organizational unit (OU) management
-- Group Policy configuration and Windows endpoint management
-- Linux server administration and hardening (Ubuntu, CIS principles)
-- Virtualization platforms including Proxmox VE and VirtualBox
-- DNS, DHCP, and basic enterprise infrastructure services
-- User onboarding/offboarding and RBAC implementation
+## 1. Active Directory
+*   **Hospital AD Environment Design:** Building forest hierarchies for healthcare environments.
+*   **Group Policy (GPO):** Enforcing security hardening (USB blocking, screen lockouts).
+*   **Identity Management:** Automated user provisioning and AGDLP role assignment.
+*   **Security Hardening:** Advanced auditing, account quarantine, and incident response.
 
----
+## 2. Networking
+*   **TCP/IP & Routing:** Advanced subnetting, CIDR, and core routing fundamentals.
+*   **Segmentation:** VLAN implementation (802.1Q) and traffic isolation.
+*   **Security:** Firewall configuration (OPNsense/pfSense) and VPN deployment (WireGuard).
+*   **Analysis:** Packet capture and protocol deep-dives using Wireshark.
 
-## Security Operations & Monitoring
-- SIEM deployment and centralized logging using Wazuh and Graylog
-- Log collection and monitoring using rsyslog and auditd
-- File Integrity Monitoring (FIM)
-- Basic vulnerability analysis and CVE/CWE research
-- Security event analysis and alert investigation
-- Technical incident documentation and troubleshooting workflows
+## 3. Systems Administration
+*   **Server Management:** Linux (Ubuntu) and Windows Server 2022 administration.
+*   **Monitoring:** SIEM deployment (Wazuh) and centralized log management.
+*   **Virtualization:** Proxmox VE, VirtualBox, and Type-1/2 Hypervisor management.
+*   **Hardening:** CIS Benchmarks and automated system updates.
 
----
-
-## Malware Analysis & Security Research
-- Static malware analysis techniques
-- File hashing, strings analysis, and FLOSS
-- Basic YARA rule usage
-- Introductory dynamic malware analysis
-- Basic x86 assembly familiarity
-
----
-
-## Tools & Platforms
-
-### Operating Systems
-- Linux
-- Windows
-- macOS
-
-### Networking & Infrastructure Tools
-- GNS3
-- Cisco CLI
-- Wireshark
-- Proxmox VE
-- VirtualBox
-
-### Security Tools
-- Active Directory
-- Wazuh
-- Graylog
-- Nmap
-- Suricata
-
-### Web & Development Tools
-- Docker
-- Postman
-- Burp Suite
+## 4. Security & Tools
+*   **Auditing:** SIEM integration and log analysis.
+*   **Identity:** RBAC and Principle of Least Privilege.
+*   **Platforms:** GNS3, Wireshark, Nmap, Suricata.

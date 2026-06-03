@@ -3,24 +3,33 @@ layout: default
 title: Projects Overview
 ---
 
-## My Engineering Labs
+# 🚀 My Engineering Labs
 
-Select a project to view my knowledge about a given subject.
+Welcome to my technical portfolio. This site documents my hands-on experience in building and securing enterprise infrastructures.
 
-### Networking
-*   **[Networking & VLAN Segmentation]({{ '/projects/networking.html' | relative_url }})**  
-    *Layer 2 segmentation and 802.1Q trunking on Cisco hardware.*
+## 📂 Project Categories
 
-### Security
-*   **[Security / SIEM Lab]({{ '/projects/security.html' | relative_url }})**  
-    *Monitoring and analyzing security logs for threat detection.*
+### 🛡️ Active Directory Projects
+Comprehensive identity management and forest design.
+*   **[Hospital AD Environment]({{ '/projects/active-directory/hospital-ad-project.html' | relative_url }})** (Featured)
+*   *Group Policy Implementation (Coming Soon)*
+*   *OU Structure Design (Coming Soon)*
+*   *User Provisioning (Coming Soon)*
 
-### Active Directory
-*   **[Active Directory Infrastructure]({{ '/projects/ad-project.html' | relative_url }})**  
-    *A multi-module deep dive into Forest design, GPOs, and security hardening.*
-    *   [→ View OU & GPO Design]({{ '/projects/ad-deep-dives/ou-and-gpo.html' | relative_url }})
-    *   [→ View Security Hardening]({{ '/projects/ad-deep-dives/security-hardening.html' | relative_url }})
+---
 
+### 🌐 Networking Projects
+Core infrastructure and traffic security.
+*   **[Enterprise Network Design]({{ '/projects/networking.html' | relative_url }})**
+*   *VLAN Implementation (Coming Soon)*
+*   *Firewall Configuration (Coming Soon)*
+*   *Network Monitoring (Coming Soon)*
 
+---
 
-
+### 🖥️ Systems Administration Projects
+Server hardening and monitoring.
+*   **[Ubuntu Server Deployment]({{ '/projects/systems.html' | relative_url }})**
+*   *Wazuh SIEM (Coming Soon)*
+*   *Backup Solutions (Coming Soon)*
+*   *Virtualization Lab (Coming Soon)*
