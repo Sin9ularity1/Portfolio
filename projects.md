@@ -19,18 +19,14 @@ Comprehensive identity management and forest design.
 ---
 
 ### Networking Projects
-Core infrastructure and traffic security.
-*   **[Enterprise Network Design]({{ '/projects/networking.html' | relative_url }})**
+*   **[2nd Semester Project: Network Infrastructure]({{ '/projects/networking/2nd-semester-project.html' | relative_url }})**
 *   *VLAN Implementation (Coming Soon)*
 *   *Firewall Configuration (Coming Soon)*
-*   *Network Monitoring (Coming Soon)*
 
 ---
 
 ### Systems Administration Projects
-Server hardening and monitoring.
-*   **[Ubuntu Server Deployment]({{ '/projects/systems.html' | relative_url }})**
-*   *Wazuh SIEM (Coming Soon)*
+*   **[2nd Semester Project: Hardening & Monitoring]({{ '/projects/systems/2nd-semester-project.html' | relative_url }})**
+*   *Ubuntu Server Deployment (Coming Soon)*
 *   *Backup Solutions (Coming Soon)*
-*   *Virtualization Lab (Coming Soon)*
 n)*
