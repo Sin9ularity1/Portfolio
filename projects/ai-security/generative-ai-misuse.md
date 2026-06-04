@@ -21,7 +21,9 @@ This project explores the security risks associated with Large Language Models (
 ## Technical Analysis & Demonstration
 The full research paper, including vulnerability analysis and practical demonstrations, is hosted on a dedicated project site.
 
-### [-> View Full Project Site](https://sin9ularity1.github.io/Valgfag-Generative-AI-Misbrug/)
+<div style="margin: 2rem 0;">
+    <a href="https://sin9ularity1.github.io/Valgfag-Generative-AI-Misbrug/" class="btn-primary" target="_blank" rel="noopener">View Full Project Site</a>
+</div>
 
 ---
 [<- Back to Projects]({{ '/projects.html' | relative_url }})

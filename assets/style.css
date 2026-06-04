@@ -1,18 +1,17 @@
 :root {
-  /* Dark Mode Color Palette (Inspired by Reference) */
-  --bg-color: #0b0e14;
-  --sidebar-bg: #11141b;
-  --card-bg: #161b22;
-  --header-bg: rgba(11, 14, 20, 0.9);
+  /* Refined High-Contrast Dark Theme - Slate & Cobalt */
+  --bg-color: #0f172a;       /* Deep Slate */
+  --sidebar-bg: #1e293b;    /* Lighter Slate for depth */
+  --card-bg: #1e293b;
+  --header-bg: rgba(15, 23, 42, 0.9);
   
-  --text-primary: #f0f6fc;
-  --text-secondary: #a6b0bb;
-  --text-muted: #7d8590;
+  --text-primary: #f8fafc;   /* Crisp white-blue */
+  --text-secondary: #94a3b8; /* Muted slate blue */
+  --text-muted: #64748b;
   
-  /* Blue Accent - Replaced Purple */
-  --accent-color: #60a5fa;
-  --accent-hover: #93c5fd;
-  --border-color: #30363d;
+  --accent-color: #38bdf8;   /* Sky/Cobalt Blue - vibrant but professional */
+  --accent-hover: #7dd3fc;
+  --border-color: #334155;   /* Subtle but visible borders */
   
   /* Professional System Font Stack */
   --font-main: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -149,6 +148,7 @@ nav {
 }
 
 .btn-primary, .btn-secondary {
+  display: inline-block;
   padding: 0.8rem 2rem;
   border-radius: 6px;
   font-weight: 600;
