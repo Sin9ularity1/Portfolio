@@ -3,7 +3,7 @@ layout: default
 title: Technical Skills
 ---
 
-# Technical Expertise
+# Technical Skills
 
 I focus on the intersection of infrastructure management and defensive security. My technical journey is built on four core pillars:
 
