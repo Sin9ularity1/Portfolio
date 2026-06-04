@@ -49,4 +49,12 @@ layout_class: home-page
             <li>Virtualization labs</li>
         </ul>
     </div>
+    <div class="stat-item">
+        <h3>Generative AI</h3>
+        <ul>
+            <li>Prompt injection</li>
+            <li>LLM vulnerabilities</li>
+            <li>Mitigation research</li>
+        </ul>
+    </div>
 </div>
