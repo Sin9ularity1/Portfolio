@@ -3,37 +3,16 @@ layout: default
 title: About Me
 ---
 
-I am an IT Security student based in Denmark with a strong interest in infrastructure, systems administration, networking, and defensive security.
+# About Me
 
-My focus is on building practical, enterprise-style environments that emphasize security, documentation, and operational thinking. Through hands-on lab projects, I work with technologies such as Active Directory, VLAN segmentation, SIEM platforms, Linux hardening, and centralized logging.
+I am an IT Security student in Denmark, driven by a curiosity for how complex systems are built and defended. My approach is hands-on: I believe the best way to understand security is to build the environment from the ground up.
 
-I enjoy understanding how systems connect together — from identity management and access control to network segmentation, monitoring, and incident response.
+### My Focus
+*   **Infrastructure:** Moving from flat networks to zero-trust segmented architectures.
+*   **Identity:** Mastering the "Who" and "What" through robust Active Directory design.
+*   **Defense:** Using SIEM monitoring and system hardening to detect and mitigate threats.
 
----
+### Learning Journey
+Currently exploring the security implications of Generative AI and improving my administrative automation through PowerShell and scripting. 
 
-## Current Areas of Focus
-
-- Active Directory & Group Policy
-- Network segmentation and firewalling
-- SIEM deployment and log analysis
-- Linux administration and hardening
-- Infrastructure security and RBAC
-- PowerShell and operational automation
-
----
-
-## Approach to Learning
-
-I prefer learning through building and documenting real environments rather than isolated exercises. My portfolio projects are designed to simulate realistic infrastructure and security scenarios, with an emphasis on:
-
-- Structured troubleshooting
-- Clear documentation
-- Verification and testing
-- Security-focused design
-- Operational practicality
-
----
-
-## Communication
-
-I am a native English speaker currently living in Denmark and actively improving my Danish. I am comfortable communicating technical concepts clearly to both technical and non-technical audiences.
+I am a native English speaker and am actively working on my Danish proficiency while completing my studies.

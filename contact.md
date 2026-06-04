@@ -3,36 +3,43 @@ layout: default
 title: Contact
 ---
 
-I’m open to discussions around infrastructure, systems administration, networking, and security-focused IT roles or projects.
+# Get in Touch
 
-This includes topics such as Active Directory environments, network design, system hardening, SIEM/logging, and general enterprise IT architecture.
+I'm always open to discussing labs, projects, or opportunities in the networking and security space.
 
----
+<div class="contact-container">
+    <div class="contact-item">
+        <h3>Email</h3>
+        <p><a href="mailto:reubenbadham12@gmail.com">reubenbadham12@gmail.com</a></p>
+    </div>
+    <div class="contact-item">
+        <h3>LinkedIn</h3>
+        <p><a href="https://www.linkedin.com/in/reuben-badham/" target="_blank">linkedin.com/in/reuben-badham</a></p>
+    </div>
+    <div class="contact-item">
+        <h3>GitHub</h3>
+        <p><a href="https://github.com/Sin9ularity1" target="_blank">github.com/Sin9ularity1</a></p>
+    </div>
+</div>
 
-## Contact Information
+<style>
+.contact-container {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
 
-- **Email:** reubenbadham12@gmail.com     
-- **GitHub:** https://github.com/Sin9ularity1  
-- **LinkedIn:** https://www.linkedin.com/in/reuben-badham/
+.contact-item h3 {
+    margin: 0 0 0.25rem 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+}
 
----
-
-## Location
-
-Based in Denmark (Odense)  
-Open to opportunities in Denmark or remote roles within infrastructure and security engineering.
-
----
-
-## Collaboration / Interests
-
-I’m particularly interested in:
-- Infrastructure and identity management (Active Directory, RBAC)
-- Network security and segmentation
-- SOC / SIEM workflows and detection engineering basics
-- Linux and Windows server environments
-- Lab-based security simulation projects
-
----
-
-*Feel free to reach out via email or LinkedIn.*
+.contact-item p {
+    margin: 0;
+    font-size: 1.1rem;
+}
+</style>
