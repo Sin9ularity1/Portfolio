@@ -36,7 +36,7 @@ I configured an OPNsense firewall to act as the core gateway and inter-VLAN rout
 *   **Stateful Inspection:** Leveraged OPNsense's stateful inspection to monitor active handshakes and session integrity.
 *   **NAT & WAN Security:** Hardened the perimeter against external probes while allowing secure outbound traffic.
 
-![Firewall Rules]({{ '/assets/images/2nd_sem_firewall_rules.png' | relative_url }})
+![Firewall Rules]({{ '/assets/images/2nd_sem_firewall_config.png' | relative_url }})
 
 ---
 
