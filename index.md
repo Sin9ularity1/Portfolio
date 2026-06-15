@@ -13,9 +13,9 @@ layout_class: home-page
         <h1>Reuben Badham</h1>
         <p class="hero-subtitle">IT Security Student</p>
         <p class="hero-description">
-            Currently exploring the intersection of networking and systems security. 
-            I enjoy building lab environments to understand how enterprise infrastructures 
-            are defended, managed, and automated.
+            Bridging the gap between traditional infrastructure and emerging AI security. 
+            I combine 5+ years of expertise in the 'Old World' of Cisco Networking and Linux Systems 
+            with a deep specialization in 'New World' AI Security and the OWASP LLM framework.
         </p>
         <div class="hero-cta">
             <a href="{{ '/projects.html' | relative_url }}" class="btn-primary">Explore My Labs</a>
