@@ -14,7 +14,7 @@ layout_class: home-page
         <p class="hero-subtitle">IT Security Student</p>
         <p class="hero-description">
             Bridging the gap between traditional infrastructure and emerging AI security. 
-            I combine 5+ years of experience in the 'Old World' of Network Infrastructure and Linux Systems 
+            I combine 5+ years of experience in Network Infrastructure and Linux Systems 
             with a targeted focus on 'New World' AI Security and the OWASP LLM framework.
         </p>
         <div class="hero-cta">
